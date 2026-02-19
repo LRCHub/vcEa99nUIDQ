@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ひみつのユーフォー",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-02-19T18:09:58.377319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひみつのユーフォー",
+      "artist": "音楽的同位体 可不(KAFU)",
+      "has_synced": false,
+      "path": "select/01_ひみつのユーフォー_音楽的同位体_可不(KAFU).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひみつのユーフォー",
+      "artist": "ナユタン星人 feat. 可不",
+      "has_synced": false,
+      "path": "select/02_ひみつのユーフォー_ナユタン星人_feat._可不.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひみつのユーフォー",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/03_ひみつのユーフォー_ナユタン星人.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひみつのユーフォー",
+      "artist": "Nayutanseijin feat. KAFU",
+      "has_synced": false,
+      "path": "select/04_ひみつのユーフォー_Nayutanseijin_feat._KAFU.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひみつのユーフォー",
+      "artist": "Nayutanseijin",
+      "has_synced": false,
+      "path": "select/05_ひみつのユーフォー_Nayutanseijin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひみつのユーフォー",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_ひみつのユーフォー_ナユタン星人.txt"
+    }
+  ]
+}
